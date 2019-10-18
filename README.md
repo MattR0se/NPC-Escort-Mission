@@ -3,6 +3,14 @@
 ![alt text](https://i.imgur.com/wW1c4yA.png)
 ![alt text](https://i.imgur.com/kAu14iI.png)
 
+## Requirements
+Python 3.6+
+Pygame https://www.pygame.org/wiki/GettingStarted
+PyTMX https://pypi.org/project/PyTMX/
+
+Execute 'src/run.py' to play
+
+
 ## Controls
 W A S D: Move the player character through the dungeon
 
