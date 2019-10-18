@@ -5,8 +5,11 @@
 
 ## Requirements
 Python 3.6+
+
 Pygame https://www.pygame.org/wiki/GettingStarted
+
 PyTMX https://pypi.org/project/PyTMX/
+
 
 Execute 'src/run.py' to play
 
