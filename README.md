@@ -1,7 +1,7 @@
 # NPC Escort Mission Demo
 
 ## Controls
-Move the player character with WASD through the dungeon
+W A S D: Move the player character through the dungeon
 
 F1: Switch camera target (Player or NPC)
 
