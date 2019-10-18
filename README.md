@@ -1,5 +1,8 @@
 # NPC Escort Mission Demo
 
+![alt text](https://i.imgur.com/wW1c4yA.png)
+![alt text](https://i.imgur.com/kAu14iI.png)
+
 ## Controls
 W A S D: Move the player character through the dungeon
 
